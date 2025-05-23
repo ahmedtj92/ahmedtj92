@@ -20,7 +20,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ahmedtj92/Malware-Analysis/blob/main/README.md">Malware Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ahmedtj92/Malware-Analysis/blob/main/README.md">Malware Analysis</a>|
 | File Permission in Linux                  | <a href="https://github.com/ahmedtj92/File-Permission-in-Linux">Linux File Permission </a>|
