@@ -12,6 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Detection Lab
+- <a href="https://github.com/ahmedtj92/Malware-Analysis/blob/main/README.md">Malware Analysis</a>
 - SOC Automation Project
 - File Permission in Linux
 
