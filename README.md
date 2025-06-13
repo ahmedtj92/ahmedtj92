@@ -1,12 +1,11 @@
 # Hello, I'm Ahmed Tijani Muftawu
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+A cybersecurity force wrapped in precision and grit — a sharp-eyed threat hunter with a passion for defending digital frontiers. With a solid foundation in Supply Chain Management and a growing arsenal of certifications (CompTIA Security+, Certified in Cybersecurity, and on track for CGRC), I fuse technical know-how with governance smarts.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+From mastering Microsoft Sentinel and Splunk in home labs to professional stints at SIXMS CONSULT and FORTRESS GROUP, I built a track record in incident response, NIST RMF alignment, and vulnerability management using Qualys and Nessus.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -55,6 +54,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Cert-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2%20Certified%20Cybersecurity-006B5F?style=for-the-badge&logo=ISC2&logoColor=white" />
+
+
 
 
 </div>
