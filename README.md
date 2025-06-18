@@ -1,5 +1,5 @@
 # Hello, I'm Ahmed Tijani Muftawu
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/ahmed-muftawu-451886269"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 A cybersecurity force wrapped in precision and grit — a sharp-eyed threat hunter with a passion for defending digital frontiers. With a solid foundation in Supply Chain Management and a growing arsenal of certifications (CompTIA Security+, Certified in Cybersecurity, and on track for CGRC), I fuse technical know-how with governance smarts.
 
