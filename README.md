@@ -5,7 +5,7 @@
 </a>
 <br />
 <br />
-A cybersecurity force wrapped in precision and grit — a sharp-eyed threat hunter with a passion for defending digital frontiers. With a solid foundation in Supply Chain Management and a growing arsenal of certifications (CompTIA Security+, Certified in Cybersecurity, and on track for CGRC), I fuse technical know-how with governance smarts.
+Cybersecurity professional with 7 years of experience specializing in security operations SOC, network defense engineering and cloud security across hybrid infrastructures. skilled in SIEM monitoring (Microsoft Sentinel a Splunk), threat hunting, incident response and vulnerability management with hands-on expertise in cloud platform (Azure AWS) and network security tools (Cisco ASA, Palo Alto, Fortinet). Adept at improving detection capabilities, reducing incident response times and strengthening organizational security postures..
 
 From mastering Microsoft Sentinel and Splunk in home labs to professional stints at SIXMS CONSULT and FORTRESS GROUP, I built a track record in incident response, NIST RMF alignment, and vulnerability management using Qualys and Nessus.
 
