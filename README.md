@@ -11,11 +11,11 @@ From mastering Microsoft Sentinel and Splunk in home labs to professional stints
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity.
 
 ## Projects
 - <a href="https://github.com/ahmedtj92/Malware-Analysis/blob/main/README.md"> Exfiltration Malware Analysis</a>
-- <a href="https://github.com/ahmedtj92/File-Permission-in-Linux"> File Permission in Linux</a>
+- <a href="https://github.com/ahmedtj92/File-Permission-in-Linux"> Access Control in Linux</a>
 - <a href="https://github.com/ahmedtj92/Applying-filters-to-SQL-queries"> SQL queries</a>
 
 
