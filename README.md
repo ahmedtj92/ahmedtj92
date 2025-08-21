@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/ahmedtj92/Malware-Analysis/blob/main/README.md"> Exfiltration Malware Analysis</a>
 - <a href="https://github.com/ahmedtj92/File-Permission-in-Linux"> Access Control in Linux</a>
 - <a href="https://github.com/ahmedtj92/Applying-filters-to-SQL-queries"> SQL queries</a>
-
+- <a href="https://github.com/ahmedtj92/Python-algorithm/blob/main/README.md"> Running Python algorithm</a>
 
 ## Skills
 
